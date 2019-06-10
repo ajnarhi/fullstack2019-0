@@ -272,7 +272,7 @@ ReactDOM.render(<App />,
 )
 
 
-muutis
+
 ----------------------------------------
  
 const Statistics = (props) => {
